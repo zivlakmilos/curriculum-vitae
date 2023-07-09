@@ -86,6 +86,7 @@ __Intepreter for Monkey programming language__
 
 - Intepreter for Monkey programming language written in TypeScript.
 - Currently under development.
+- [https://github.com/zivlakmilos/ts-monkey-interpreter](https://github.com/zivlakmilos/ts-monkey-interpreter)
 
 `2023-present`
 __SonataJS__
@@ -97,11 +98,13 @@ __SonataJS__
   - *Frontend* - SolidJS
   - *Backend* - Supabase
   - *Code Generator* - Generate code for UI and business logic based on project requirements
+- [https://github.com/sonatajs](https://github.com/sonatajs)
 
 `2022-2022`
 __Glyco CH__
 
 - Mobile application for calculating CarbonHydrate and Insulin units.
+- [https://glyco-app.ch/](https://glyco-app.ch/)
 
 
 `2021-2021`
