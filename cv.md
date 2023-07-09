@@ -52,17 +52,20 @@ I am a self-employed web and mobile developer with a strong passion for working 
 `2018-present`
 __Software Engineer, Self Employed__
 
-- Placeholder
-
-`2018-present`
-__Chief Development Officer__
-
-- Placeholder
+- Freelance work mostly on web and mobile applications.
+- Technologies:
+  - JavaScript/TypeScript
+  - Node.js
+  - React and React Native
+  - SolidJS
 
 `2017-2018`
 __Embedded Software Engineer, Fiscal Solutions__
 
-- Placeholder
+- Development of drivers for fiscal devices in ANSI C.
+- Maintain core system for fiscal service.
+- Design and develop framework for Lua integration for easier driver development.
+- Implement core functionality for HTTP requests.
 
 ## Education
 
@@ -79,7 +82,37 @@ __ETŠ Mihajlo Pupin__
 ## Projects
 
 `2023-present`
-__Project 01__
+__Intepreter for Monkey programming language__
 
-- Placeholder
+- Intepreter for Monkey programming language written in TypeScript.
+- Currently under development.
 
+`2023-present`
+__SonataJS__
+
+- SonataJS is framework for web applications development.
+- Currently under development.
+- Contains for part:
+  - *UI* - MaterialUI
+  - *Frontend* - SolidJS
+  - *Backend* - Supabase
+  - *Code Generator* - Generate code for UI and business logic based on project requirements
+
+`2022-2022`
+__Glyco CH__
+
+- Mobile application for calculating CarbonHydrate and Insulin units.
+
+
+`2021-2021`
+__Drink Inventory__ 
+
+- Desktop application for drink inventory management and calculation.
+- Integration with digital scale and barcode scanner.
+
+`2018-2020`
+__Heating Controller__
+
+- Controller for central heating system.
+- The primary focus of the project was to provide efficient control for the heating system.
+- System based on AVR 8-bit microcontroller.
