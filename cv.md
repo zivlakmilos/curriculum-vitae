@@ -106,6 +106,12 @@ __Glyco CH__
 - Mobile application for calculating CarbonHydrate and Insulin units.
 - [https://glyco-app.ch/](https://glyco-app.ch/)
 
+`2021-2022`
+__Fortis__
+
+- Programmable Logic Controller
+- Firmware for stm32 microcontroller
+- Software for programming
 
 `2021-2021`
 __Drink Inventory__ 
