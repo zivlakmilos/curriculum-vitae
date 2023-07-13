@@ -12,7 +12,7 @@ Software Engineer
 
 ### Currently
 
-I am a self-employed web and mobile developer with a strong passion for working on embedded systems. In addition to my professional expertise, I actively dedicate my free time to build development tools that improves the software development workflow. Currently learning VHDL.
+I am a self-employed web and mobile developer with a strong passion for working on embedded systems. In addition to my professional expertise, I actively dedicate my free time to build development tools that improves the software development workflow. Currently learning VHDL and Rust.
 
 ### Languages
 
@@ -90,11 +90,6 @@ __SonataJS__
 
 - SonataJS is framework for web applications development.
 - Currently under development.
-- Contains for part:
-  - *UI* - MaterialUI
-  - *Frontend* - SolidJS
-  - *Backend* - Supabase
-  - *Code Generator* - Generate code for UI and business logic based on project requirements
 - [https://github.com/sonatajs](https://github.com/sonatajs)
 
 __Glyco CH__
@@ -118,6 +113,14 @@ __Heating Controller__
 - Controller for central heating system.
 - The primary focus of the project was to provide efficient control for the heating system.
 - System based on AVR 8-bit microcontroller.
+
+__Robotic Arm__
+
+- Robotic arm based on electro-pneumatic, PLC and Embedded Linux.
+- Library for Fatek communication protocol in C programming language.
+- Multi thread web service running on Raspberry Pi in C++ programming language
+- Control software for Desktop (C++, Qt Framework), Android (Java) and Web (JavaScript, Websockets)
+- [https://www.youtube.com/watch?v=VMeoHwQxMtg](https://www.youtube.com/watch?v=VMeoHwQxMtg)
 
 __Zinux__
 
