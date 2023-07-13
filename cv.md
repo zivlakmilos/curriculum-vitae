@@ -5,14 +5,14 @@ title: Miloš Zivlak
 Software Engineer
 
 <div id="webaddress">
-  <a href="mailto:zi@zivlak.rs">Email</a>
-| <a href="https://zivlak.rs" target="_blank">Portfolio</a>
-| <a href="https://github.com/zivlakmilos" target="_blank">GitHub</a>
+  <a href="mailto:milos@zivlak.rs">milos@zivlak.rs</a>
+| <a href="https://zivlak.rs" target="_blank">zivlak.rs</a>
+| <a href="https://github.com/zivlakmilos" target="_blank">github.com/zivlakmilos</a>
 </div>
 
 ### Currently
 
-I am a self-employed web and mobile developer with a strong passion for working on embedded systems. In addition to my professional expertise, I actively dedicate my free time to building development tools enhance the software development workflow.
+I am a self-employed web and mobile developer with a strong passion for working on embedded systems. In addition to my professional expertise, I actively dedicate my free time to building development tools enhance the software development workflow. Currently learning VHDL.
 
 ### Languages
 
@@ -34,11 +34,10 @@ I am a self-employed web and mobile developer with a strong passion for working 
 
 ### DevOps Tools
 
+**Linux** - Linux operating system\
 **Docker** - Docker containers for development and production\
 **Vim/NeoVim** - IDE/Code Editor, Plugin development\
-**git** - Version control, GitHub, GitLab\
-**svn** - Version control\
-**Matins** - Bug tracking
+**git** - Version control, GitHub, GitLab
 
 ### Microcontrollers
 
@@ -81,14 +80,12 @@ __ETŠ Mihajlo Pupin__
 
 ## Projects
 
-`2023-present`
 __Intepreter for Monkey programming language__
 
 - Intepreter for Monkey programming language written in TypeScript.
 - Currently under development.
 - [https://github.com/zivlakmilos/ts-monkey-interpreter](https://github.com/zivlakmilos/ts-monkey-interpreter)
 
-`2023-present`
 __SonataJS__
 
 - SonataJS is framework for web applications development.
@@ -100,28 +97,31 @@ __SonataJS__
   - *Code Generator* - Generate code for UI and business logic based on project requirements
 - [https://github.com/sonatajs](https://github.com/sonatajs)
 
-`2022-2022`
 __Glyco CH__
 
 - Mobile application for calculating CarbonHydrate and Insulin units.
 - [https://glyco-app.ch/](https://glyco-app.ch/)
 
-`2021-2022`
 __Fortis__
 
 - Programmable Logic Controller
 - Firmware for stm32 microcontroller
 - Software for programming
 
-`2021-2021`
 __Drink Inventory__ 
 
 - Desktop application for drink inventory management and calculation.
 - Integration with digital scale and barcode scanner.
 
-`2018-2020`
 __Heating Controller__
 
 - Controller for central heating system.
 - The primary focus of the project was to provide efficient control for the heating system.
 - System based on AVR 8-bit microcontroller.
+
+__Zinux__
+
+- Operating system for x86 platform.
+- Supports printing characters on display and handling keyboard and timer interrupts.
+- Written in C and Assambly.
+- [https://github.com/zivlakmilos/Zinux](https://github.com/zivlakmilos/Zinux)
