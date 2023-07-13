@@ -12,7 +12,7 @@ Software Engineer
 
 ### Currently
 
-I am a self-employed web and mobile developer with a strong passion for working on embedded systems. In addition to my professional expertise, I actively dedicate my free time to building development tools enhance the software development workflow. Currently learning VHDL.
+I am a self-employed web and mobile developer with a strong passion for working on embedded systems. In addition to my professional expertise, I actively dedicate my free time to build development tools that improves the software development workflow. Currently learning VHDL.
 
 ### Languages
 
