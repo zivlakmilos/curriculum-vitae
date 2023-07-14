@@ -32,7 +32,7 @@ I am a self-employed web and mobile developer with a strong passion for working 
 **MongoDB** - Web applications\
 **Supabase** - Backedn as Service
 
-### DevOps Tools
+### Dev Tools
 
 **Linux** - Linux operating system\
 **Docker** - Docker containers for development and production\
@@ -124,7 +124,7 @@ __Robotic Arm__
 
 __Zinux__
 
-- Operating system for x86 platform.
+- Simple operating system for x86 platform.
 - Supports printing characters on display and handling keyboard and timer interrupts.
 - Written in C and Assambly.
 - [https://github.com/zivlakmilos/Zinux](https://github.com/zivlakmilos/Zinux)
