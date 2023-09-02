@@ -150,9 +150,9 @@ __Drink Inventory__
 __Pedagogical Notebook__
 
 - Mobile app for keeping student development records required by Serbian low
-- Currently in review process on Play Store
+- Available on Google Play
 - TypeScript, React Native, SQLite, MobX, Supabase
-- [https://pedagoskasveska.com/](https://pedagoskasveska.com)
+- [https://pedagoskasveska.edu.rs/](https://pedagoskasveska.edu.rs)
 
 __SIM800js__
 
