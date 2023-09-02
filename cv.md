@@ -134,15 +134,15 @@ __Fortis__
 
 __Heating Controller__
 
-- Controller for central heating system.
-- The primary focus of the project was to provide efficient control for the heating system.
-- System based on AVR 8-bit microcontroller.
+- Controller for central heating system
+- The primary focus of the project was to provide efficient control for the heating system
+- System based on AVR 8-bit microcontroller
 - C, UART, SPI
 
 __Drink Inventory__ 
 
-- Desktop application for drink inventory management and calculation.
-- Integration with digital scale and barcode scanner.
+- Desktop application for drink inventory management and calculation
+- Integration with digital scale and barcode scanner
 - C++, Qt Framework
 
 ## Personal Projects
