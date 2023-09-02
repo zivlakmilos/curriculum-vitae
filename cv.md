@@ -173,7 +173,7 @@ __Smart Document Builder__
 
 - Command line tool that allow user to convert documents from markdown into PDF and HTML
 - Shipped with predefined template for various type of documents.
-- Require Pandoc to be isntalled
+- Require Pandoc to be installed
 - JavaScript, CLI
 - [https://www.npmjs.com/package/smart-document-builder](https://www.npmjs.com/package/smart-document-builder)
 
